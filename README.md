@@ -1,112 +1,82 @@
----
-title: JoykishanSharma
-date: '2020-19-08'
-spoiler: Dynamic Realtime Readme Template
-categories: ["dynamic-realtime", "all-profile"]
-githubUsername: 'JoykishanSharma'
----
+
 
 
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
+Hey there! I'm Sreehari, an AI Developer and a passionate Data Scientist 📱 dedicated to tackling real-world challenges 🌏 head-on. My passion lies in crafting accessible open-source solutions, crafting AI software :computer:, and developing tools to empower individuals. Let's build a vibrant community together! If you find my projects intriguing, give them a ⭐️. Your star might just brighten someone's day 🙏.
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-SreehariRamesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sreehari-ramesh-25b636224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtUe7miAwQMCpfkyILrUPew%3D%3D)
+[![Gmail](https://img.shields.io/badge/-sreehariramesh14581-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sreehariramesh14581@gmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
+![](https://komarev.com/ghpvc/?username=Sreehari-Ramesh&style=flat)
 
 <!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+<img src="https://github.com/SreehariRamesh/SreehariRamesh/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
+* Learning Front-End AI:computer: Development
+* Learning some New AI techniques from online communities.
+* Looking forward to taking a Deep Learning:calling: course in the future.
 * 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
+### 🚀 Current Challenges I'm Tackling:
 
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
+In the fast-paced world of AI engineering, adaptation is key. Here are the challenges I've set for myself to stay ahead:
+
+* **Daily Coding Sessions**: 🧑‍💻 Dedicate 1-2 focused hours each day to coding, with zero distractions. (Taking one or two days off for rejuvenation.)
+
+* **Continuous Learning**: 📚 Stay updated with the latest in Dev and UI through daily reading.
+
+* **Physical Wellness**: 💪 Hit the gym for weightlifting sessions three days in a row, followed by a day of rest.
+
+* **Digital Detox**: 📵 Limit time spent on entertainment platforms like YouTube to stay focused on growth.
+
+* **Embracing Minimalism**: 🌿 Simplify life and streamline focus by embracing a minimalist lifestyle.
+
+In this rapidly evolving landscape, these challenges keep me sharp and ready to tackle any obstacle that comes my way.
+🔜
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://github.com/Sreehari-Ramesh?tab=repositories">
+    <img width="500" height="auto" align="right" alt="Sreehari's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=sreehariramesh&show_icons=true&theme=algolia&count_private=true" />
    <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
  <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+### Python Libraries for AI & Machine Learning:
+ 
+<code><a href="https://numpy.org/"><img height="40" src="https://numpy.org/images/logos/numpy.svg" alt="NumPy"></a></code>
+<code><a href="https://pandas.pydata.org/"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas"></a></code>
+<code><a href="https://scikit-learn.org/stable/"><img height="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn"></a></code>
+<code><a href="https://www.tensorflow.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow"></a></code>
+<code><a href="https://keras.io/"><img height="40" src="https://keras.io/img/logo.png" alt="Keras"></a></code>
+<code><a href="https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch"></a></code>
+<code><a href="https://opencv.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV"></a></code>
 
+#### Other AI & Machine Learning Tools:
+<code><a href="https://www.tensorboard.dev/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/TensorFlow.png" alt="TensorBoard"></a></code>
+<code><a href="https://www.jupyter.org/"><img height="40" src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook"></a></code>
+<code><a href="https://www.pygame.org/"><img height="40" src="https://www.pygame.org/docs/_static/pygame_logo.gif" alt="Pygame"></a></code>
+<code><a href="https://www.scipy.org/"><img height="40" src="https://www.scipy.org/_static/images/scipy_med.png" alt="SciPy"></a></code>
+<code><a href="https://www.fast.ai/"><img height="40" src="https://www.fast.ai/images/fastai_paper/show_batch.png" alt="fast.ai"></a></code>
+<code><a href="https://www.nltk.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/1200px-NLTK_logo.svg.png" alt="NLTK"></a></code>
 </p>
 
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
-:star: From [JoykishanSharma](https://github.com/JoykishanSharma)
+:star: From [SreehariRamesh](https://github.com/Sreehari-Ramesh)
 
 
 <!-- Credit -->
 ### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs. 
 
-
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
