@@ -20,9 +20,9 @@ Hey there! I'm Sreehari, an AI Developer and a passionate Data Scientist 📱 de
 <img src="https://github.com/SreehariRamesh/SreehariRamesh/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End AI:computer: Development
+* Learning AI Model development
 * Learning some New AI techniques from online communities.
-* Looking forward to taking a Deep Learning:calling: course in the future.
+* Looking forward to taking a Deep Learning course in the future.
 * 🔜
 
 ### 🚀 Current Challenges I'm Tackling:
@@ -74,9 +74,4 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
 :star: From [SreehariRamesh](https://github.com/Sreehari-Ramesh)
-
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
 
