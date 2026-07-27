@@ -1,77 +1,360 @@
+# Hi, I'm Sreehari 👋
 
+## AI Engineer | Generative AI | Agentic AI | Multi-Agent Systems | LLM Applications
 
+I am an **AI Engineer specializing in Generative AI and Autonomous AI Systems**, focused on building production-grade applications powered by **Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and Multi-Agent Architectures**.
 
-<!-- Greeting -->
-# Hey there! :wave::smiley:
+My work involves designing intelligent systems that can **reason, retrieve information, use tools, collaborate with other agents, and automate complex workflows**.
 
-<!--Introduction -->
-Hey there! I'm Sreehari, an AI Developer and a passionate Data Scientist 📱 dedicated to tackling real-world challenges 🌏 head-on. My passion lies in crafting accessible open-source solutions, crafting AI software :computer:, and developing tools to empower individuals. Let's build a vibrant community together! If you find my projects intriguing, give them a ⭐️. Your star might just brighten someone's day 🙏.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+I enjoy transforming AI research into scalable software solutions by combining:
 
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-SreehariRamesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sreehari-ramesh-25b636224?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtUe7miAwQMCpfkyILrUPew%3D%3D)
-[![Gmail](https://img.shields.io/badge/-sreehariramesh14581-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sreehariramesh14581@gmail.com)
+**AI Engineering + Software Engineering + Cloud Infrastructure + System Design**
 
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=Sreehari-Ramesh&style=flat)
+---
 
-<!-- Working GIF -->
-<img src="https://github.com/SreehariRamesh/SreehariRamesh/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
+# 🚀 About Me
 
-### 💼  Things that I'm currently working on: 
-* Learning AI Model development
-* Learning some New AI techniques from online communities.
-* Looking forward to taking a Deep Learning course in the future.
-* 🔜
+- 🤖 AI Engineer focused on **Agentic AI & LLM-powered applications**
+- 🧠 Building autonomous AI systems using **LLM Agents, Multi-Agent Workflows, and Tool Calling**
+- 🔎 Experienced in designing advanced **RAG pipelines and knowledge-based AI systems**
+- ⚡ Passionate about AI automation, intelligent workflows, and AI-native software
+- 🐍 Python developer building scalable AI backends
+- ☁️ Interested in AI Infrastructure, LLMOps, and production AI deployment
+- 🌍 Based in Dubai, UAE
 
-### 🚀 Current Challenges I'm Tackling:
+---
 
-In the fast-paced world of AI engineering, adaptation is key. Here are the challenges I've set for myself to stay ahead:
+# 🧠 AI Engineering Expertise
 
-* **Daily Coding Sessions**: 🧑‍💻 Dedicate 1-2 focused hours each day to coding, with zero distractions. (Taking one or two days off for rejuvenation.)
+## 🤖 Agentic AI & Autonomous Systems
 
-* **Continuous Learning**: 📚 Stay updated with the latest in Dev and UI through daily reading.
+Building AI systems capable of reasoning, planning, and executing tasks.
 
-* **Physical Wellness**: 💪 Hit the gym for weightlifting sessions three days in a row, followed by a day of rest.
+- AI Agents
+- Autonomous Agents
+- Agent Planning & Reasoning
+- Tool-Calling Agents
+- Function Calling
+- ReAct Agents
+- Reflection & Self-Correction Patterns
+- Memory-Augmented Agents
+- Human-in-the-loop AI Systems
+- Agent Workflow Automation
+- Agent Evaluation
 
-* **Digital Detox**: 📵 Limit time spent on entertainment platforms like YouTube to stay focused on growth.
+---
 
-* **Embracing Minimalism**: 🌿 Simplify life and streamline focus by embracing a minimalist lifestyle.
+# 🕸 Multi-Agent Systems
 
-In this rapidly evolving landscape, these challenges keep me sharp and ready to tackle any obstacle that comes my way.
-🔜
+Designing collaborative AI agent ecosystems where multiple specialized agents work together.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/Sreehari-Ramesh?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Sreehari's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=sreehariramesh&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-### Python Libraries for AI & Machine Learning:
- 
-<code><a href="https://numpy.org/"><img height="40" src="https://numpy.org/images/logos/numpy.svg" alt="NumPy"></a></code>
-<code><a href="https://pandas.pydata.org/"><img height="40" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas"></a></code>
-<code><a href="https://scikit-learn.org/stable/"><img height="40" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn"></a></code>
-<code><a href="https://www.tensorflow.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="TensorFlow"></a></code>
-<code><a href="https://keras.io/"><img height="40" src="https://keras.io/img/logo.png" alt="Keras"></a></code>
-<code><a href="https://pytorch.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch"></a></code>
-<code><a href="https://opencv.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV"></a></code>
+Experience and interests:
 
-#### Other AI & Machine Learning Tools:
-<code><a href="https://www.tensorboard.dev/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/TensorFlow.png" alt="TensorBoard"></a></code>
-<code><a href="https://www.jupyter.org/"><img height="40" src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook"></a></code>
-<code><a href="https://www.pygame.org/"><img height="40" src="https://www.pygame.org/docs/_static/pygame_logo.gif" alt="Pygame"></a></code>
-<code><a href="https://www.scipy.org/"><img height="40" src="https://www.scipy.org/_static/images/scipy_med.png" alt="SciPy"></a></code>
-<code><a href="https://www.fast.ai/"><img height="40" src="https://www.fast.ai/images/fastai_paper/show_batch.png" alt="fast.ai"></a></code>
-<code><a href="https://www.nltk.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/NLTK_logo.svg/1200px-NLTK_logo.svg.png" alt="NLTK"></a></code>
+- Multi-Agent Architectures
+- Agent Collaboration Patterns
+- Agent Communication Protocols
+- Role-Based AI Agents
+- Planner → Executor → Reviewer Architectures
+- Debate & Critic Agents
+- Autonomous Research Agents
+- AI Workforce Automation
+
+Frameworks:
+
+- LangGraph
+- AutoGen
+- CrewAI
+- Semantic Kernel
+- OpenAI Agents SDK
+
+---
+
+# 🔥 Generative AI & LLM Engineering
+
+Working with modern Large Language Model technologies:
+
+### LLM Providers
+
+- OpenAI GPT Models
+- Azure OpenAI
+- Anthropic Claude
+- Google Gemini
+- Hugging Face Models
+- Open Source LLMs
+
+### LLM Concepts
+
+- Prompt Engineering
+- Structured Outputs
+- Function Calling
+- Context Engineering
+- Prompt Optimization
+- Few-shot / Zero-shot Learning
+- LLM Reasoning
+- Token Optimization
+- Model Selection
+- Cost & Latency Optimization
+
+---
+
+# 🔍 Advanced RAG Systems
+
+Building production-grade Retrieval-Augmented Generation systems.
+
+Expertise:
+
+- Advanced RAG Architectures
+- Hybrid Search
+- Semantic Search
+- Vector Search
+- Metadata Filtering
+- Query Transformation
+- Query Expansion
+- Reranking
+- Retrieval Optimization
+- Knowledge Graph RAG
+- Conversational RAG
+- Multi-Hop Retrieval
+- Agentic RAG
+
+Technologies:
+
+- LangChain
+- LangGraph
+- LlamaIndex
+- FAISS
+- Qdrant
+- Milvus
+- ChromaDB
+- Elasticsearch/OpenSearch
+- Redis Vector Search
+
+---
+
+# 🔌 AI Integration & Protocols
+
+Building connected AI systems:
+
+- Model Context Protocol (MCP)
+- API Tool Integration
+- Function Calling
+- REST APIs
+- Enterprise System Integration
+- Database Agents
+- SQL Agents
+- Web Search Agents
+- Document Intelligence Systems
+
+---
+
+# 🧪 LLM Evaluation & Observability
+
+Building reliable AI applications:
+
+- LLM Evaluation Frameworks
+- Prompt Evaluation
+- RAG Evaluation
+- Hallucination Detection
+- Response Quality Analysis
+- AI Monitoring
+
+Tools:
+
+- LangSmith
+- Arize Phoenix
+- TruLens
+- Ragas
+- MLflow
+
+---
+
+# 🏗 AI System Architecture
+
+Designing scalable AI platforms:
+
+- AI Application Architecture
+- LLM Backend Systems
+- Event Driven AI Systems
+- Distributed AI Workflows
+- Scalable API Design
+- Microservices Architecture
+- AI Pipeline Design
+
+---
+
+# 🧬 Machine Learning & Deep Learning
+
+Machine Learning:
+
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Model Evaluation
+- Classification
+- Regression
+- Clustering
+
+Deep Learning:
+
+- Neural Networks
+- CNNs
+- Transformers
+- Attention Mechanisms
+- Transfer Learning
+- Model Fine-tuning
+
+Frameworks:
+
+- PyTorch
+- TensorFlow
+- Scikit-Learn
+- Hugging Face Transformers
+
+---
+
+# 🎯 Model Adaptation & Optimization
+
+Working with modern LLM optimization techniques:
+
+- Fine-tuning
+- Parameter Efficient Fine Tuning (PEFT)
+- LoRA
+- QLoRA
+- Instruction Tuning
+- Embedding Optimization
+- Quantization
+- Model Compression
+
+---
+
+# 🛠 Technology Stack
+
+## Programming
+
+<p>
+
+Python • SQL • TypeScript
+
 </p>
 
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
 
-:star: From [SreehariRamesh](https://github.com/Sreehari-Ramesh)
+## AI Frameworks
 
+```
+LangChain
+LangGraph
+LlamaIndex
+AutoGen
+CrewAI
+Semantic Kernel
+OpenAI SDK
+Hugging Face
+```
+
+## Backend Development
+
+```
+FastAPI
+Flask
+Django
+REST APIs
+Async Python
+WebSockets
+```
+
+## Databases
+
+```
+PostgreSQL
+MySQL
+MongoDB
+Redis
+Vector Databases
+```
+
+## Vector Databases
+
+```
+FAISS
+Qdrant
+Milvus
+ChromaDB
+Pinecone
+Elasticsearch
+OpenSearch
+```
+
+## Cloud & Infrastructure
+
+```
+Azure
+Azure OpenAI
+AWS
+Docker
+Kubernetes
+Linux
+Git
+CI/CD
+GitHub Actions
+Terraform
+```
+
+---
+
+# ⚙️ AI Development Practices
+
+- Clean AI Software Architecture
+- Production LLM Development
+- API Design
+- System Design
+- Prompt Versioning
+- Experiment Tracking
+- Model Monitoring
+- Continuous Improvement
+
+---
+
+# 📚 Currently Exploring
+
+🚀 Advanced Agentic AI Architectures
+
+🧠 Multi-Agent Systems at Scale
+
+🔗 Model Context Protocol (MCP)
+
+⚡ AI Automation Platforms
+
+🏗 LLMOps Infrastructure
+
+🔬 AI Evaluation Frameworks
+
+🌐 AI-Native Software Engineering
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sreehari-Ramesh&show_icons=true&theme=algolia&count_private=true" />
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+LinkedIn:
+https://www.linkedin.com/in/sreehari-ramesh-25b636224
+
+Email:
+sreehariramesh14581@gmail.com
+
+
+---
+
+# 💡 AI Philosophy
+
+> "The future of software engineering is AI-native systems where intelligent agents collaborate with humans to solve complex problems."
+
+⭐ If my projects help you, consider starring them.
