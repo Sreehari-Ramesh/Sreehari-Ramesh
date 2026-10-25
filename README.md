@@ -1,4 +1,4 @@
-# Hi, I'm Sreehari 👋 
+# Hi, I'm Sreehari 👋
 
 ## AI Engineer | Generative AI | Agentic AI | Multi-Agent Systems | LLM Applications
 
