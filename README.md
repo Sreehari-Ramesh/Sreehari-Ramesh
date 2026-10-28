@@ -9,7 +9,7 @@ My work involves designing intelligent systems that can **reason, retrieve infor
 I enjoy transforming AI research into scalable software solutions by combining:
 
 **AI Engineering + Software Engineering + Cloud Infrastructure + System Design**
-
+ 
 ---
 
 # 🚀 About Me
